@@ -1,4 +1,4 @@
-# deep-belief-networks
+# Deep-Belief-Networks
 
 ## This code snippet is useful and will be used to train and test. Every code before that is a funcitonal implementation which should remain untouched and un altered untill and unless you are an expert in doing so! ;)
 
@@ -116,3 +116,7 @@ print('validation roc score',roc_auc_score(Y_pred,Y_test))
 test = pd.read_csv('test.csv')
 
 ```
+
+contact me at: saransh.official.iitkgp@gmail.com  / saransh.gupta@iitkgp.ac.in
+
+For more details about me visit: http://saranshqm.github.io/
