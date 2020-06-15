@@ -1,5 +1,7 @@
 # deep-belief-networks
 
+## This code snippet is useful and will be used to train and test. Every code before that is a funcitonal implementation which should remain untouched and un altered untill and unless you are an expert in doing so! ;)
+
 
 ``` python
 from imblearn.over_sampling import SMOTE
