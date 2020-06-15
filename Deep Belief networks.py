@@ -1458,8 +1458,8 @@ class SupervisedDBNRegression(TensorFlowAbstractSupervisedDBN, RegressorMixin):
         else:
             return labels.shape[1]
 
-
-
+#<<<<<<<<<<<<<<<<<<<<<<<<<<<<<BUILDING FUNCTIONS END HERE>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+###<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 from imblearn.over_sampling import SMOTE
 import numpy as np
 from sklearn.metrics import confusion_matrix
